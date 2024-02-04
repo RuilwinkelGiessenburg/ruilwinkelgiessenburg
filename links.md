@@ -12,19 +12,17 @@ menus:
 sections:
 - type: address.html
   section_id: address
-  title: You are welcome!
-  map: https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2949.1784803899586!2d-71.56614568458906!3d42.338717979188324!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x6335220b7c08850a!2sMarlborough%20District%20Court!5e0!3m2!1sen!2sbg!4v1583193778570!5m2!1sen!2sbg
+  title: Kom een keertje langs!
+  map: https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d222.60358338614594!2d4.892245018394979!3d51.85170995529939!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47c686b6d78db33f%3A0x7457f8d25b19dfb2!2sVan%20Brederodestraat%201%2C%203381%20BA%20Giessenburg!5e0!3m2!1snl!2snl!4v1707079198255!5m2!1snl!2snl
   address:
-    title: Address
+    title: Adres
     text: >
-      45 Williams St,<br/>
-      Marlborough, MA 01752,<br/>
-      United States
+      Van Brederodestraat 1,<br/> 
+      3381 BA Giessenburg
   phone:
-    title: Phones
+    title: Telefoonnummer
     text: >
-      +1 (202) 555-014<br/>
-      +1 (202) 555-015
+      +31 (0183) 701034
 - type: paragraph.html
   section_id: help
   title: Get some help!

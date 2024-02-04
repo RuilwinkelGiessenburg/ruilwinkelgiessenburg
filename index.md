@@ -1,18 +1,18 @@
 ---
 layout: home
 header:
-  title: YOUR FAVORITE SOURCE OF FREE BOOTSTRAP THEMES
+  title: WELKOM BIJ DE RUILWINKEL GIESSENBURG
   text: >
     Start Bootstrap can help you build better websites using the Bootstrap
     framework! Just download a theme and start customizing, no strings attached!
   action: # action button is optional
     label: Find Out More
-    url: '#about'
+    url: '#over-ons'
 
 
 sections:
   - type: call-to-action.html
-    section_id: about
+    section_id: over-ons
     background_style: bg-primary
     title: We've got what you need!
     text: Start Bootstrap has everything you need to get your new website up and running in no time! All of the templates and themes on Start Bootstrap are open source, free to download, and easy to use. No strings attached!
@@ -145,16 +145,13 @@ sections:
       Ready to start your next project with us? Give us a call or send us an email
       and we will get back to you as soon as possible!
     actions:
-    - title: +1 (202) 555-014
+    - title: +31 (0183) 701034
       icon: bi-telephone-fill
     - title: E-Mail
       icon: bi-envelope-fill
-      url: mailto:contact@yourwebsite.com
-    - title: Twitter
-      icon: bi-twitter
-      url: '#'
+      url: mailto:ruilwinkelgiessenburg@gmail.com
     - title: Facebook
       icon: bi-facebook
-      url: '#'
+      url: 'https://www.facebook.com/profile.php?id=61556299016817'
 
 ---
